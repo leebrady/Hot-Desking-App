@@ -65,3 +65,5 @@ fastlane/Preview.html
 fastlane/screenshots
 fastlane/test_output
 fastlane/readme.md
+
+src/main/res/raw/msal_config.json
